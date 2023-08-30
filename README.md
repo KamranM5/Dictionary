@@ -1,5 +1,7 @@
 # Dictionary
 
+English Word Repetition Trainer
+
 To start practicing, you should add the already learned words to the file 'Text.txt' in the following format (examples are in the original files)
 
 word = translation
